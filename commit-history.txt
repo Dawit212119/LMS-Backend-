@@ -7,3 +7,4 @@
 2023-03-02 - Implement user registration endpoint
 2023-03-05 - Add login and refresh token logic
 2023-03-08 - Create course service structure
+2023-03-12 - Implement course CRUD operations
