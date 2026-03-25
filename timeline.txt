@@ -34,3 +34,4 @@
 2023-05-28 - Add request logging and tracing
 2023-06-02 - Setup unit testing framework
 2023-06-05 - Add integration tests for courses
+2023-06-08 - Implement API documentation with Swagger
