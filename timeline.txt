@@ -12,3 +12,4 @@
 2023-03-15 - Add course enrollment functionality
 2023-03-18 - Setup BullMQ queue configuration
 2023-03-22 - Implement email worker for notifications
+2023-03-25 - Add structured logging system
