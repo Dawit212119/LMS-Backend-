@@ -10,3 +10,4 @@
 2023-03-08 - Create course service structure
 2023-03-12 - Implement course CRUD operations
 2023-03-15 - Add course enrollment functionality
+2023-03-18 - Setup BullMQ queue configuration
