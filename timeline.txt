@@ -15,3 +15,4 @@
 2023-03-25 - Add structured logging system
 2023-03-28 - Create progress tracking service
 2023-04-02 - Implement lesson progress tracking
+2023-04-05 - Add course module management
