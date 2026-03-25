@@ -29,3 +29,4 @@
 2023-05-12 - Add email verification system
 2023-05-15 - Setup caching strategies for courses
 2023-05-18 - Implement database connection pooling
+2023-05-22 - Add API versioning support
