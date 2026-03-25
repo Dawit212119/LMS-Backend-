@@ -24,3 +24,4 @@
 2023-04-25 - Add image optimization service
 2023-04-28 - Setup webhook system for integrations
 2023-05-02 - Implement rate limiting middleware
+2023-05-05 - Add input validation and sanitization
