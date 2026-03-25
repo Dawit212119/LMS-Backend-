@@ -1,3 +1,4 @@
 2023-02-05 - Initial project structure setup
 2023-02-08 - Add basic Docker configuration
 2023-02-12 - Setup database schema foundation
+2023-02-15 - Create API gateway base structure
