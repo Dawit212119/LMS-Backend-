@@ -35,3 +35,4 @@
 2023-06-02 - Setup unit testing framework
 2023-06-05 - Add integration tests for courses
 2023-06-08 - Implement API documentation with Swagger
+2023-06-12 - Add database migration scripts
