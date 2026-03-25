@@ -33,3 +33,4 @@
 2023-05-25 - Create comprehensive error handling
 2023-05-28 - Add request logging and tracing
 2023-06-02 - Setup unit testing framework
+2023-06-05 - Add integration tests for courses
